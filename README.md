@@ -15,10 +15,10 @@ I'm a Computer Engineering student and a passionate **Mobile Application Develop
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/hüseyin-epatay-582987262) | hepatay@gmail.com
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hepatay&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepatay&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hepatay&show_icons=true&theme=radical)](https://github.com/Hepatay)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hepatay&layout=compact&theme=radical)](https://github.com/Hepatay)
 <!--
 **Hepatay/Hepatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
