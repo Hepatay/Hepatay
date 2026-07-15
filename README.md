@@ -1,5 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Hüseyin! 👋
 
+I'm a Computer Engineering student and a passionate **Mobile Application Developer** focusing on creating clean, efficient, and user-friendly Android applications.
+
+## 🛠 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cs,git,github" />
+  </a>
+</p>
+
+## 🚀 What I'm Up To
+- 🔭 I’m currently working on a **Digital Wallet** mobile application utilizing **Room Database** architecture.
+- 🌱 I’m currently expanding my knowledge in **Kotlin** and API integrations.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/hüseyin-epatay-582987262) | hepatay@gmail.com
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hepatay&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepatay&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 <!--
 **Hepatay/Hepatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
