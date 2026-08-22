@@ -21,16 +21,6 @@
   "currently_building": "VarlıkCep - Personal finance & portfolio tracking",
   "interests": "Mobile Development, Clean Architecture, Performance & Security"
 }
-🎓 I'm a 3rd-year Computer Engineering student and an Android Developer focused on building clean, reliable, and user-friendly mobile applications.
-
-🚀 Currently improving VarlıkCep, a comprehensive personal finance and portfolio tracking app.
-
-🌱 Expanding my knowledge in maintainable Android application architectures, Kotlin Coroutines, Flow, and REST API integrations.
-
-🤝 I'm open to collaborating on Android applications, Kotlin projects, and mobile development ideas.
-
-🚀 Featured Project: VarlıkCep
-Developed with Kotlin, Room Database, and Material Components.
 
 Core Tracking: Income and expense tracking, monthly budgets, savings goals, and recurring transactions.
 
