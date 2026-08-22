@@ -101,8 +101,14 @@ I'm open to collaborating on Android applications, Kotlin projects, and mobile d
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hepatay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ## 📊 GitHub Stats
+
+<div align="center">
+  <!-- Streak Stats (Sunucu demolab olarak güncellendi) -->
+  <img src="https://streak-stats.demolab.com/?user=Hepatay&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hepatay&show_icons=true&theme=tokyonight&hide_border=true" alt="Hüseyin's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepatay&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <!-- Genel İstatistikler (Cache süresi eklendi) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hepatay&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Hüseyin's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hepatay&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used languages" />
+</div>
 </div>
