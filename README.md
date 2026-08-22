@@ -101,9 +101,6 @@ I'm open to collaborating on Android applications, Kotlin projects, and mobile d
 ## 📊 GitHub Stats
 
 <div align="center">
-  ## 📊 GitHub Stats
-
-<div align="center">
   <!-- Streak Stats (Sunucu demolab olarak güncellendi) -->
   <img src="https://streak-stats.demolab.com/?user=Hepatay&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br><br>
